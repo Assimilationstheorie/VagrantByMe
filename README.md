@@ -1,0 +1,2 @@
+# VagrantByMe
+My VagrantConfigs.
