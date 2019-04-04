@@ -1,2 +1,2 @@
 # VagrantByMe
-My VagrantConfigs.
+Check [Wiki](https://github.com/Assimilationstheorie/VagrantByMe/wiki) for installation & usage. :)
